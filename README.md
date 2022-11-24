@@ -15,8 +15,6 @@ I am an ambitious, self-taught junior blockchain developer <br>with a good under
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Ptodoroff&icon=2&color=3)](https://visitcount.itsvg.in)
