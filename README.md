@@ -3,7 +3,7 @@ I am an ambitious, self-taught junior blockchain developer <br>with a good under
 - Openzeppelin's  suite - interfaces and contracts - ERC-20, ERC-721, ERC-1155, etc.
 - Hardhat and Truffle.
 - Ganache.
-- ether.js and web3.js.
+- ethers.js and web3.js.
 - Chainlink's Verifiable Random Function (VRF).
 
 My additional stack incldues HTML, CSS, Typescript
