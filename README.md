@@ -1,6 +1,6 @@
 # 💫 About Me:
 I am an ambitious, self-taught junior blockchain developer <br>with a good understanding of Ethereum's<br> Solidity smart contract programming language. I am also fluent in Javascript and React. The tools that I use to build the future of web3 include:
-- Openzeppelin's  suite - interfaces and contracts.
+- Openzeppelin's  suite - interfaces and contracts - ERC-20, ERC-721, ERC-1155, etc.
 - Hardhat and Truffle.
 - Ganache.
 - ether.js and web3.js.
