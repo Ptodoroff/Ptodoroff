@@ -1,11 +1,5 @@
 # 💫 About Me:
-I am an ambitious, self-taught junior blockchain developer <br>with a good understanding of Ethereum's<br> Solidity smart contract programming language. I am also fluent in Javascript and React. The tools that I use to build the future of web3 include:
-- Openzeppelin's  suite - interfaces and contracts - ERC-20, ERC-721, ERC-1155, etc.
-- Hardhat
-- React, Typescript, Javascript,NestJS, Express and MongoDB, PostgreSQL
-- ethers.js and web3.js
-- Chainlink's Verifiable Random Function (VRF)
-
+Blockchain developer and web3-sec researcher. Co-founder, Auditor and Business Ops @  [Shieldify Security](https://github.com/shieldify-security)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/petargtodorov) 
